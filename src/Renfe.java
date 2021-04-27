@@ -212,6 +212,7 @@ static Scanner teclado = new Scanner(System.in);
 
 			case 14: //Comprar BITLLET
 				System.out.println("Comprant ENTRADA...");
+				System.out.println("Compra amb fils");
 				/*compraBitllet();*/
 				
 				FilCompraBitllets objFil = new FilCompraBitllets();
